@@ -87,11 +87,11 @@ Ini list dalam list:
 
 ## Table
 
-No. | Nama | Usia
-----|------|---
-1. | Andi | 20
-2. | Saitama | 19
-3. | All Mighty | 25
+No.| Nama | Usia
+---|-----|---
+1.|Andi| 20
+2.|Saitama| 19
+3.|All Mighty| 25
 
 <hr><hr>
 
