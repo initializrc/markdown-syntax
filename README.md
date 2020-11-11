@@ -1,4 +1,4 @@
-# MARKDOWN
+# MARKDOWN SYNTAX
 
 # Heading 1
 
@@ -42,5 +42,3 @@ Sintaks python untuk menampilkan string di console, adalah:
 ```python
 println("Hello World")
 ```
-# markdown-syntax
-# tes
